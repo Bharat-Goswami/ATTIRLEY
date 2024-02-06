@@ -1,6 +1,6 @@
 <h1 align="center">Attirely</h1>
 
-<h3 align="center">It's a clone of Myntra</h3>
+<h3 align="center">It's a clone of Ecommerce website</h3>
 
 <br />
 
@@ -30,8 +30,7 @@
 <h4 align="center">Deployed On:</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-  <img src="https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="render" />
+  <img src="https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 </p>
 
 
@@ -42,7 +41,7 @@
 
 <p align="center">
   <br />&#10023;
-  <a href="#Live-link">View Demo</a> &#10023;
+  <a href="https://attirley.vercel.app/">View Demo</a> &#10023;
   <a href="#Getting-Started">Getting Started</a> &#10023; 
   <a href="#Developers">Developers</a> &#10023;
 </p>
@@ -147,22 +146,19 @@ with Firebase Authentication
 
 ## Developers
 
-👤 **P Yakshith** (Team Lead)
+👤 **Bharat Goswami** (Team Lead)
 
-- GitHub: [@YAKSHITH027](https://github.com/YAKSHITH027)
+- GitHub: [@Bharat Goswami](https://github.com/Bharat-Goswami)
 
 
-👤 **Gyan Prakash**
+👤 **Sachin Kumar Singh**
 
-- GitHub: [@gyan2501](https://github.com/gyan2501)
+- GitHub: [@Sachin Kumar Singh](https://github.com/sachin2398)
 
-👤 **Sudhir Nandane**
 
-- GitHub: [@Sudhir Nandane](https://github.com/codersudhir)
+👤 **Ritesh Maurya**
 
-👤 **Trilochanprasad B Hilli**
-
-- GitHub: [@TrilochanprasadBH](https://github.com/TrilochanprasadBH)
+- GitHub: [@Ritesh Maurya](https://github.com/riteshmaurya089)
 
 <br/>
                                                                                                                         
